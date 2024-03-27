@@ -6,13 +6,13 @@ function Example () {
     <>
       <Title text='QR Code' code={code}/>
         
-      <Uik.QRCode value='Reef' />
+      <Uik.QRCode value='Nexis' />
     </>
   )
 }
 
 const code = `<>
-  <Uik.QRCode value='Reef' />
+  <Uik.QRCode value='Nexis' />
 </>`
 
 export default Example

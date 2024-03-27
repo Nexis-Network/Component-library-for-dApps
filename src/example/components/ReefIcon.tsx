@@ -4,7 +4,7 @@ import Title from "./Title"
 function Example () {
   return (
     <>
-      <Title text='Reef Icon' code={code}/>
+      <Title text='Nexis Icon' code={code}/>
 
       <Uik.ReefIcon className='example-reef-icon'/>
     </>

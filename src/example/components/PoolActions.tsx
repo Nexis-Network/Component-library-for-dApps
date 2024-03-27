@@ -3,7 +3,7 @@ import Title from "./Title"
 
 const data = {
   firstToken: {
-    name: 'Reef',
+    name: 'Nexis',
     symbol: "REEF",
     image: 'https://s2.coinmarketcap.com/static/img/coins/64x64/6951.png',
     price: 0.05,

@@ -40,7 +40,7 @@ const Example = () => (
         <Demo.Code/>
         <Demo.Notifications/>
         <Demo.Prompt/>
-        <Demo.AccountSelector/>
+        {/* <Demo.AccountSelector/> */}
         <Demo.CopyButton/>
         {/*<Demo.PoolActions/>*/}
         <Demo.ReefLogo/>

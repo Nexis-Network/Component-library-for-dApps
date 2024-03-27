@@ -44,7 +44,7 @@ const content = [
       "Slider",
       "Tag",
       "Trend",
-      "Reef Amount",
+      "Nexis Amount",
       "Avatar",
       "Container",
       "Divider",
@@ -64,7 +64,7 @@ const content = [
   {
     title: 'Organisms',
     links: [
-      "Account Selector",
+      // "Account Selector",
       "Copy Button",
       "Pool Actions"
     ]
@@ -74,7 +74,7 @@ const content = [
     links: [
       "Nexis Logo",
       "Nexis Logo",
-      "Reef Icon",
+      "Nexis Icon",
       "Bubbles",
       "Fish Animation"
     ]
