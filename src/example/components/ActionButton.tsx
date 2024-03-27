@@ -18,7 +18,7 @@ function Example () {
       <Uik.Container flow='spaceAround'>
         <Uik.ActionButton text="Swap" icon={faRightLeft} color="green"/>
         <Uik.ActionButton text="Send" icon={faPaperPlane} color="blue" />
-        <Uik.ActionButton text="Buy" icon={<Uik.ReefSign/>}/>
+        <Uik.ActionButton text="Buy" icon={<Uik.ReefSign  className="custom-buy-btn"/>}/>
         <Uik.ActionButton text="Stake" icon={faCoins} color="orange"/>
       </Uik.Container>
 
@@ -35,7 +35,7 @@ function Example () {
 const code = `<>
   <Uik.ActionButton text="Swap" icon={faRightLeft} color="green"/>
   <Uik.ActionButton text="Send" icon={faPaperPlane} color="blue" />
-  <Uik.ActionButton text="Buy" icon={<Uik.ReefSign/>}/>
+  <Uik.ActionButton text="Buy" icon={<Uik.ReefSign/>} className="custom-buy-btn"/>
   <Uik.ActionButton text="Stake" icon={faCoins} color="orange"/>
   <Uik.ActionButton text="Pool" icon={faSackDollar} color="lime"/>
   <Uik.ActionButton text="Create" icon={faWandMagicSparkles} color="cyan"/>
